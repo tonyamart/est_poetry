@@ -1,4 +1,4 @@
-﻿@author: Ilmar ?
+﻿@author: Reinvald Jüri
 @title: Üks Laul Wana Eesti-Orjapõlwest
 @place: Viljandi
 @publisher: F. Feldt
