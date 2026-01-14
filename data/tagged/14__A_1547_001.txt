@@ -1,24 +1,15 @@
-﻿
-Mronststtti rafisiius.
+﻿@author: Laur M.
+@title: St. Peeterburgi ja Kronstatti reisilaul
+@place: Viljandi
+@publisher: Kubbermangu kirjadega
+@year: 1874
 
-Armsa Eestimaa rahwa rõõmustuseks
-L	\
-I	wäljaannud	,
-M. Laur,
-Willandi walla kaolmersier.
-Teist korda trükkilud. L. Wänja kasuga.
-Tallinnas, 1874.
-Trükkitlld kubbsrmangu kirjadega.
 
-JosBOjeHO ifeasypoto.
-PeBejt, 12-,-v Asrycra 1874.
-ENSV ta
-Kirjandusmuuseumi
-Arhiivraamatukogu
-3Z//8
+# St. Peeterburgi ja Kronstatti reisilaul
+
 Nüüd sõnum üle Eestimaa
 Kui pilkse hoop käi korraga,
-Ja kuuluta meil Keisri auu Mi*’
+Ja kuuluta meil Keisri auu 
 Ring anna rahwal head nõuu. —
 Oh armas, kallis Eestimees,
 Kes ellad suitsu tare sees,
@@ -34,13 +25,16 @@ Ja kui siin koppika saa saad
 Siis warst sest ka ilma jääd;
 Sest seda perib mõisa muld,
 Mis siin on kallim weel kui kuld.
-A.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. A.
+
 Ma läksin eesmalt Tartusse,
 Kus rahwas wäga lahkeste
 Mind sõbralikult teretas
 Ja aurulaewast juttustas.
 Seal seisis „Dorpat", kallis laew,
-Kus ADO-minu reisi waew.
+Kus lõppis minu reisi waew.
 Kül wäga suure rutuga
 Ta jättis maha Tartumaa,
 Ja jõudis Peipsi rannale
@@ -53,7 +47,10 @@ Nüüd Jumalaga isamaa,
 Niisama armas Tartu ka,
 Ehk pea tuleb wiimne tund,
 Lään põhja, puhkan miimist und.
-B.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. B.
+
 Läks mööda tundi kaheksa,
 Siis Pihkwa linnas ollin ma;
 Seäl wäga paljo kirikuid
@@ -68,7 +65,6 @@ Seäl hirnub, jookseb raudne täk, —
 Tal suitsust, aurust uhke lak, —
 Kui tugew rammu poolest ta,
 Ei jõua mina jutlusta.
-s
 Ta jalge al on raudne tee,
 Ei siiski wäsi ometi;
 Waid tuhat tulist ruttuste
@@ -93,10 +89,12 @@ Kui wahest hirnub köwaste
 Siis metsad kostwad kaugele.
 Seal Eesti raudtee alt pead sa
 Nüüd risti läbi minema.
-D.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. D.
+
 Läks mööda tundi kaheksa,
 Siis Peeterburgis olin ma.
-6
 Kül se on lin, mis kullatud
 Ja imelikult ehitud!
 Keik maead — sildid särawad,
@@ -126,7 +124,6 @@ Mis iga pääw on Eestimaal.
 Mis imelikud sillad seäl
 On tehtud kaanalide peäl'!
 Keik kaanalide kaldad ka
-7
 Ei ole mitte muld ehk maa,
 Waid kiwidest, mis raiutud
 Ja wäga uhkest' ehitud.
@@ -134,7 +131,10 @@ Ka kaanalide kalda peal
 On rauast, wasest aid nüüd seal,
 Et sa ei pea langema
 Ei sinna sisse kukkuma.
-E.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. E.
+
 Jisaki plats, se armas paik,
 Kus rahwas hulgal käiwad keik,
 Seal seisab auu ja ilu sees
@@ -155,7 +155,6 @@ Kui Peeterburgi linnas seäl
 On meie päiwil Wenemaal.
 Teed taewa pole näitab ta
 Seal sulle kuldse torniga,
-8
 Kui päike paistab ülemast,
 Teeb rõõmsaks iga meest ja last.
 Mis püha kiri jutlustab,
@@ -185,8 +184,7 @@ Kes on kui teine Salomon,
 Saaks igas kohas õnnistud
 Ja tema auujärg kinnitud.
 Kül imelikud kujud seäl,
-9
-Dn altari kui koori peal,
+On altari kui koori peal,
 Kes sinu peäle waatawad
 Za öppetust füll' saadawad.
 So kallist Jeesust näed sa seal
@@ -215,7 +213,6 @@ Kui Piidelt läbi loeks ma
 Nii palju wöttaks aega ka
 Sest kirikust mul jutlusta
 Ja täielikult rääkida.
-10
 Keik se mind wäga römustab
 Mo õiget usko kinnitab,
 Et ükskord Jumal meiega
@@ -226,7 +223,10 @@ Maailm siis ühe telgi sees
 On oma Ärapeästja ees
 Ja laubab suure heälega
 Tal halleluja! lõpmata.
-G.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. G.
+
 Nüüd lähme wälja kirikust
 Ja juttustame mõnest muust:
 Waat mis suur auusammas seäl,
@@ -243,8 +243,7 @@ Sest selle Keisri läbi ta
 Siin peästis ära Wenemaa,
 Kui Prantsus meid siin ähwardas
 Ja igas maeas hirmutas.
-Siis jõudis Issand Heldeste
-11
+Siis jõudis Issand heldeste
 Siin appi meie Keisrile
 Ja ütles: tõtta kermeste
 Löö maha se suur waenlane.
@@ -260,8 +259,11 @@ Ta hingab önsast haua sees
 Ta auusammas meie ees;
 Ehk kõrge Keisri maea seäl
 Weel kõrgem sammas platsi peal.
-II-
-Näe Neewa jõgi woolab seal —
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. H. 
+
+Näe Neewa jõgi woolab seäl —
 Ah! mis seal suure kiwi peäl?
 Hall täk ja wäga tugew mees
 On ratsa meie silma ees.
@@ -272,7 +274,6 @@ Kus Senat, Süünot istub sees;
 Näe Senatil on uhke kull
 Ja Süünotil rist, kuldne kuul.
 Siin mõistetakse taieste
-12
 Keik õigust riigi rahwale;
 Ja tema on siis Wenemaal
 Se wiimne kohus taewa al.
@@ -302,7 +303,10 @@ Mis Keisri herra kinkinud
 Ja meile õnneks arwanud;
 Sest Eestimees nüüd viska sa,
 So kallist Keisert auusta.
-13
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. J. 
+
 Näe löune pool on jälle seäl
 Suur Keiser ratsa samba peäl.
 Se keiser Nikolai on ta,
@@ -330,7 +334,6 @@ Kes sõidab seäl sel'l olgu ön!
 (Sest Keiser ja ta sugu ka
 Seäl söitwad nende laewiga.) —
 Nüüd üle silla reisime
-14
 Ja seda ilu waatame:
 Oh imelikud meistri käed
 Ja rohked waimo ande wäed
@@ -358,10 +361,10 @@ Kes iial sillast üle käib,
 Se kumardes tal kiitust wiib,
 Seäl heidab risti ette ta
 Ja palub tõe waimuga.
-K.
+
+# St. Peeterburgi ja Kronstatti reisilaul. K.
 Näe aurolaew on jälle seäl
-15
-Meid ootab Neewa jõe Peal.
+Meid ootab Neewa jõe peäl.
 Kas kuuled kella kõlistab
 Ja rahwast kokku helistab?
 Keik rahwa hulk jo laewa laab
@@ -390,9 +393,12 @@ Waid elad musta tare sees
 Ja sinna sured ähkades.
 Waat wallid — tornid paistawad
 Ja Kroonstati meid kutsuwad.
-16
 Üks lund ja pool on kadunud
 Ja mere sõit meil lõppenud.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. L. 
+
 Nüüd wöime suure rõõmuga
 Pulwärgis wälja astuda.
 Kül wäga pilkad sillad seäl
@@ -418,7 +424,6 @@ So Jumalat ka tenida.
 Keik seäl on wäga armas meil',
 Weel enam kui siin kodumail,
 Nüüd lähme wälja ruttuste
-17
 Aeg käsib meid siin köwaste:
 Et sugulasi, sõpru näeks,
 Neist kodus jutlustada teaks.
@@ -435,7 +440,7 @@ Keik seda näha on sul lust.
 Kes täna päe noor Eestimees
 Ja kellel Eesti weri sees,
 Se püüdko iga tunniga
-Siit Keisril teen'ma astuda;
+Siit Keisrit teen'ma astuda;
 Se teenistus on auu palk,
 Ei mitte Eesti häda, malk,
 Mis kaua aega meie maal
@@ -447,18 +452,17 @@ Kronstatti al on meere peäl;
 Nüüd lähme sadamasse ka
 Neid söa laewi waatama.
 Näe, Keiser Peeter, jälle seäl
-Dn püsti kiwi samba peäl.
-18
+On püsti kiwi samba peäl.
 Se Kronstat mere saare peal
 On Wene riigi westung*) seal;
 Oh imeline ehitus,
-Za kunstlik laewa walmistus!
+Ja kunstlik laewa walmistus!
 Seal sepad ruttu taguwad
-Za raust leawa tegewad;
+Ja raust leawa tegewad;
 Waat kuida puumeistrid seal
 Ka höweldawad laewa peal.
 Seal kaanalid ka kaewetud
-Za kiwidega müüritud,
+Ja kiwidega müüritud,
 Mis nelja kanti raiutud
 Ja wahelt kokku joodetud.
 Suur laewa meeste kool on seal
@@ -472,12 +476,7 @@ Keik ümber ringi waadata:
 Waat Peeterburg jo paistab weel
 Kronstatti kõrge torni peäl,
 Näe, pahemat kät Soomemaa,
-Za paremat kät Wenemaa.
-*) Westung, kants ja patarei on tugewad
-Wallidega linnad ja mäed, kelle ees suuredtükid
-wallide peäl seiswad; linnad ja maead on söa-
-meestele elu korteriks.
-19
+Ja paremat kät Wenemaa.
 Waat, imeline laewi hulk,
 Kronstalti al kui metsa salk;
 Kül mittu tuhad masti seal,
@@ -507,7 +506,6 @@ Ja Soome mere põhja jääb.
 Keik se mind hästi öppetab
 Ja mulle meelde tuletab:
 Kui pai ja surm, mo waenlased,
-20
 Ja keik kes minu wastased,
 Mind püüdwad ära rõhuda
 Et enam rahu ei saaks ma.
@@ -521,7 +519,10 @@ Mo kindel kants on Kolgata,
 Ja Kristus oma ristiga
 Mind Lugemaste marjad seäl,
 Kui Kronstat, mis on mere peäl.
-RL.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. M.
+
 Nüüd Kroonu mehed tulewad,
 Meid laewa peäle saavamad,
 Naad waatwad pitki silmi meel
@@ -536,14 +537,16 @@ Oh Peeterburg! sa kuulus lin,
 Teist korda olen jälle siin.
 Kolm päewa Kronstat miimikas
 Ja minu raha kulutas.
-21
 Kaks päewa aga wöin weel ma
 Siin Peeterburgis reisida.
 Kui minu jõud ni ulataks,
 Üks aasta ma siis sia jääks,
 Siis õppiks Wene keele ma
 Kül selgeks kerge waewaga.
-K.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. N.
+
 Waat, maea, mis on wäga suur
 Seestpiddi Ministerium;
 Kül paljo suuri herrasid
@@ -556,8 +559,8 @@ Oh waat, kui wäga lahkeste
 Naad püüdwad räki armsaste,
 Sa aga seisad hädaga,
 Kui tont ja tum, kes keleta.
-Waat, ^Lralid seäl tulewad,
-Auuristi^fternid särawad;
+Waat, kindralid seäl tulewad,
+Auuristid sternid särawad;
 Nüüd ära enam istu sa,
 Waid tõuse üles ruttuga
 Ja anna neile nende auu,
@@ -565,7 +568,6 @@ Ja palu nende käest head nöuu.
 Kül wäga armsa sõnaga
 Naad wötwad meid seäl juhata.
 Oh! oleks Liiwimaal ka pea
-22
 Meil mõisa herra nõnda hea;
 Neist mõni uhke meelega
 Ja wäga kurja sõnaga
@@ -586,8 +588,8 @@ On wäga musta näoga:
 Neid päike ära körwetan'd
 Sepärast on naad mustaks saan'd.
 Waat seäl on Aarabia mees
-Meil selgest näha silmas;
-Seäl Kreeka rahwas Mplewad
+Meil selgest näha silma ees;
+Seäl Kreeka rahwas kauplewad
 Ja seitungi ka loewad,
 Se jäüe mind siin öppetab
 Ja mulle meelde tuletab:
@@ -595,10 +597,11 @@ Et üks kord meil se aeg ka saab,
 Mil püha kiri tõeks lääb:
 Et palju pöhja-löm.e maalt,
 Ja homiko ja õhtu poolt,
-23
 Weel ükskord saatvad tulema
 Ja taewa riigis istuma.
-O.
+
+
+# St. Peeterburgi ja Kronstatti reisilaul. O.
 Nüüd jääge Jumalaga keik,
 Siin põle minu kodu paik,
 Waid se on Liiwi Eestimaal —
@@ -613,4 +616,3 @@ Siis sinna tõtta ruttuga,
 Seäl wöid sa rahus elada.
 Keik arm meil tuleb Wenemaalt,
 Suur heldus lemma Kuningalt.
-5'
