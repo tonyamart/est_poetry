@@ -4,8 +4,7 @@
 - '# <no title>' -- for texts w/o titles
 
 # notes
-- Do not keep the books structure? (e.g. parts as I, II, III, etc.)
-- old orthography uses ö instead of õ ? (e.g. A_591)
+- long dashes are '--'
 
 # questions
 - how to keep quotation marks (in the 19th-c sources a quote opens every line, in modern - only around the actual direct speech)
