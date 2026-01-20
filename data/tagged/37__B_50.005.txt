@@ -1,96 +1,92 @@
-﻿& 50CO5-
-Issa-ma sbbrade
-s o a - l a u l.
-«yurrah!
-«Hucrah! nüüd wahwaSt' kolme waSto
-Sa üksik ustaw söa-rnst! —
+﻿@author: 
+@title: Jssa-ma sõbrade söa-laul
+@place: Tartu
+@publisher: Schünmann's Wittwe & C. Mattiesen
+@year: 1855
+
+
+# Hurrah!
+
+Hurrah! nüüd wahwast' kolme wasto
+Sa üksik ustaw söa-riist! —
 Hurrah! kaö kolme terra waSto
 Weel waenlaStel on hooplemist?
 Kui wenne odda raudne sau
 On omma rigi tuggi, au!
+
 Kakskümmend rahwa hulka tulli
 Ka mannast meie kallale;
 End' wenne rigi auu-kulli
-Zoud pillas neid keik laiale,
+Joud pillas neid keik laiale,
 Ja söa jalgdest küntud ma
-Sai peSlud nende werrega.
+Sai peslud nende werrega.
+
 SiiS peäfis uest' iSsamale
-Za meie Keisri tronile
+Ja meie Keisri tronile
 Se rahho paike paistma jälle,
 Kui rohhukS lodud hawale.
 Sest Ponapart, se woido-mees,
-Io jooksis wenne odda eeS.
+Jo jooksis wenne odda eeS.
 
-- 2 —
 Ja wata nüüd, ma-ilmgi heidab
 Sest tempust silmad körwale,
 Et risti-rahwa meled köidab
 Uks pole kuuga lippoke.
 Kaks hulka nendest touSwad nüüd
 Ja püüdwad katta Türgi süüd.
-Kui mannast PrantsuS kaugel male
+
+Kui mannast Prantsus kaugel male
 Sai tulnud sure mäega.
 Eks jõudnud uskus wasto talle
 Siis wenne-ma raudkäega?
 Eks Borodino laggedal
 Ei lõpnud nemmad lumme al?
+
 Kui kiusatusse aiad mõda
-Said läinud, Ilma karriSles,
+Said läinud, Ilma karrisles,
 SiiS näggi sure armowäega
-Paris meid — maeno löppeteS.
+Paris meid — maeno löppetes.
 ÜkS walge lip ja wenne kul
 Need andsid armo, Paris, sul.
+
 Eks Kalmuk Seine jõe jureS
 Ka omma hobbust jootmas käind?
 KaS seäl meel kegi olli murreS,
 Kui wenne moök jo immel teind?
 Seäl läikis ta kui iSfamaal
 Ja teggi rahho taewa al.
-- 3 -
+
 Ja söa kuli saddo jarrel
 On Aleksander hallastand,
 On armust õnne, waeno jarrel,
 Sel wöeral rahwal walmistand;
 Ja rahho körwa jättis ta
 Parist omma kulda ka.
+
 Ja peale sedda Moskwa linnas,
-Kus tuhk ja tulle aSsemed,
+Kus tuhk ja tulle assemed,
 Ja Newa jöe äre pinnas,
 Kus wenne-rigi woitjad waed,
-On Prantsus ni kui JngliSmeeS
+On Prantsus ni kui Jnglismees
 Meil sõbrad olnud teige ees.
+
 Nüüd tänno palgaks on meil nahha,
 Kui suur on kurjuö Ilma peal.
 Waal! Koran on neil hakkand pahha —
 Kes sedda enne uskus teal?!
 Raad Nistirahwast lahkuwad
 Ja Türgi ikkel orjawad.
+
 Kül aeg saab teile kohhut mõistma,
 Kes meie sõbrust põlgfite.
 Kes saab weel teie auu kaitsma,
 MiS endast ärra wiSkate?
-Üks on nüüd Türk ja JnglismeeS
+Üks on nüüd Türk ja Jnglismees
 Ja Türk on Prantsusmehhe sees.
+
 Nüüd kuulge! teie kurjad nõud
 Need kaowad kui agganad.
 Mis teil kül armates on jõud,
 Se kaob, kui keik pagganad.
 Eks Kristus warja Wenne maad,
-KuS on, kes Tedda kõigutab?!
--- — ••
-SelletuS inönnest saunadcst. miS fttn
-laulus ettctuUcwad.
-Türgi.rigi sõawäe lippude peal on pole su märk.
-Borodino — se koht MoSkwa linna eeS, kuS 1812.
-aaStal enne Prantsuse siSseminnemist MoSkwa
-linna kolm päwa hirmuS tapmine olli.
-Paris — Prantsuse'rigi pea-liu.
-Kalmul — ükS põhjama wenne soldat.
-Seine jöggi jookseb Prantsuse pca> linnast läbbi.
-Newa jöggi jookseb Pcterburgi linnast läbbi.
-Koran — Türgi-rahwa uSsu seädusse ramal.
-Der Druck wird gesiatrel.
-Dorpat, den 12. Januar 1855.
-Abgstheilter Sensor de la Croir.
-Dorvat, ,855.
-Gedruckt bei Schünmann'« Wittwe n. 6. MaMesen.
+Kus on, kes Tedda kõigutab?!

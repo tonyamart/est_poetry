@@ -1,11 +1,17 @@
-﻿ZM
+﻿@author: Martson David
+@title: Armastuse wõrk ehk Mõned laulud noorerahwale ajawiiteks
+@place: Tallinn
+@publisher: Trükkitud kubbermangu kirjadega.
+@year: 1872
+
+ZM
 ehk
 mönned laulud nore rahwale aea witeks.
 Kirja pannud ja wälja annud II. Eesti
 kele ramatu koggu ommanik Tallinnas
 David Dkartfon.
 Tallinnas, 1872.
-Trükkitud kubbermangu kirjadega.
+
 ■SAgn_—
 TSiSÄÄW
 ^nasnntusnpuBÜlX

@@ -1,264 +1,207 @@
-﻿A. 5 6 53.
-Armastuse wörk
-ehk
-Mõned lanlud
-noorerahwale ajawiiteks.
-Kirjapanuud
-David MarLson,
-Eesti raamatukogu omanik Tallinnas.
-■ Teine parandatud trük.
-Tallinnas, 1878.
-Trükitud J. H. Gresseli kirjadega.
-AOJLOLKSO II,eH3ypOIO
-PeBeJib, 13 OKTjiöpji 1878 r.
-(M. H.)
+﻿@author: Martson David
+@title: Armastuse wõrk ehk Mõned laulud noorerahwale ajawiiteks
+@place: Tallinn
+@publisher: J. H. Gressel
+@year: 1878
 
-r/’J
-Mis on armastus?
-Aw kuulus laulutegia laulab: „OH armastus
-sa kallis magus mesi! Onn sell, kes leidnud
-^armukest," re. ja ütleb õnnetumaks inime-
-seks seda, kes armastust ei pea tundma, et see
-peab otse kui surnult maailma peal elama.
-Aga mina ütlen: Oh õnnetu, kes armastab,
-sest kui mitmele on armastus pääwa paisted
-pimedaks ööks, roosi õied ohakateks, tuule hood
-nutulauluks ja weekohisemist surma lugudeks
-teinud!
-Armastus on mitu aeanud wiina jooma,
-mitu oma wenda tapma, armastus on mitu
-aeanud ennast ülesse pooma ja ka mitu ennast
-kihwtiga surmama, kui mitu ennast ärauputama,
-kui mitu on armastuse pärast peast nõdraks
-läinud, kui mitu sõbra wihameheks jäenud, kui
-palju on armastuse pärast omad wanemad ja
-oma isamaa maha jätnud, kui mitu omad elu-
-majad käest äraannud, kui palju, kes armastuse
-pärast omad silmad pimedaks nutnud, kui mitu
-eluks ajaks õnnetumaks jäenud.
-4
-Mis on kõik haigused selle waewa wastu,
-mis armastuse läbi inimesele tuleb, sest kõik
-maailm ei jõua ühte armastusest waewatud sü-
-dant täita oma rõõmuga.
-Aga armastus on kä üks õnnis tundmine,
-, taewalik rõõmu ettemaitsmine, sest maata kui
-sa oma armukesega istud rind rinna ääres ja
-käsi käes, kus südamed üle aeawad aga suu ei
-mõista rääkida, kus üks käe pigistus ja silma
-waatamine enam kõneleb, kui sõnad seda jõua-
-wad tunnistada, kus üks suu andmine, sinu merd
-nõnda keema ajab, et sa kõik maailma üraunus-
-tad, kui' sa pea ta rinna naecrle oled pannud.
-Kus on siis üks kuninga kroon ehk würsti riik,
-kellega sa oma õnne tahaksid wahetada?
-Kas siis päike ei paista selgemine ja kõik
-, okasteed 'pole roosi õiedega riputatud?'Kas siis
-'pole kõik rohi ja puulehed palju haljamad sinu
-silma ees ja linnu laul kenam sinu kõrwus kõ-
-lamas? Siis on kõik waewad kergemad kanda
-ja kõik road maitsewad magusamad suus. Siis
-on sinu suu alati rõõmu laulust täis ja süda
-keeb selgest armastusest.
-Kui waatame kahte armastajat ühe wõe-
-raspeu peal: Nemad ei näe, Nemad ei kuule
-muud ühtigi kui aga üksi neid sõnu mis n'ad
-teineteisega räügiwad, räägib keegi nendega, siis
-nnustawad map wastata ehk unistawad midagi
-5
-mustuseks kellest keegi täit aru wõi saada, üks pehme
-käe pigistus ja silmawaatamine teeb nende sü-
-damed tuksuma, et n'ad peawad wälja ütlema:
-„Sa oled üks ingel" ja teine: „Ilma sinuta
-ei wõi mina mitte elada."
-Ilr. 1. Armastus.
+
+# Armastus
+
 Oh armastus kui kange sa,
 Peast nõdraks jäenud sinust nsia.
 Sa tugewam kui raud ja kuld,
-Sa Polle muud kui selge muld..
+Sa Polle muud kui selge muld.
+
 Nüüd oled sa mind kätte saan'd,
 Mo mõtted tema peale pannad.
 Mul südamesse koha leidnll
 Kus teised enne Pole käind.
+
 Ei uskund enne seda m'a,
 Et nõnda möllad minuga,
 Mind iga tundis waewad weel,
 Kas olgu kodu ehk ka teel.
+
 Mo raske unewoodi sees,
 Seal seisad paigal sa mo ees,
 Ja ikka enam kiidat mull',
 Et meele heaks pean jäema sull'.
+
 Kui rahul olin enne m'a,
 Kui sõbrust Põlud mul sinuga
-6
 Ja elasin kui waga lind,
 Ei siis weel m'a ei tunnud sind.
+
 Sa oled mees fef woli käe,
 Ei kuhugi sa paigal jäe,
 Wist kõigile sa meekärg
 Mul' kangem weel kui wiinamärg.
+
 Kül mitu saksa sandiga
 Sa pannud kokku minema,
 Kes on sul' selle woli an'd
 Ja weite walitsejaks pan'd?
+
 Kül tuhanded sa enne mind,
 Kes wäga taga a'asid sind,
 Sa enne aegu surma pan'd,
 Kuus lauda neile palgaks an'd.
-Mõrtsukas MuMne ja tema abilised
-kaagisamõa külges.
-Tallinnas, sel 28-mal Weebruaril 1866.
-Kül on see kõige maailma rahwale, nii kui
-ka ühe lapse wanemale kurb ja hale nähja, kui
-noored inimesed, kes lapse põlwes mitte 'pole
-tahtnud oma wanemate häid õpetusi tänuga
-wastu wõtta ja neid auustada, waid kõlwatu-
-'mad elu taga nõudnud, kus läbi nemad nõnda
-7
-sügawasse on langenud, et neid sibi oma käte
-alla on saanud.
-Siidi kleidid, krinuliinid ja süledega ehi-
-tatud kübarad, on ühe alama seisuse naesterah-
-wale üks tühi uhkus, mis teda õige tee Pealt
-kõrwale weab, liiati kui rüad weel pealegi paha
-elu läbi on kergel wiisil saadud.
-Meesterahwad, kes ei ole ammetid õppinud
-ka mitte wiitsinud oma ammetid ülesse pidada,
-Waid endid laisklemise ja wiina lakkumise sisse
-on üle kätte annud, need inimesed ei wõi ka
-wiimaks paremad palka loota, kui siin need kolm
-kadund looma, keda mitte enam ristiinimeste
-sekka ei kõlba arwata, Waid ronga saagiks pidada.
-Ehk, kül nemad nüüd kahatsewad weel omas
-südames seda tehtud suurt ülekohut, mis nemad
-ise oma ihu ja hinge kahjuks Jumala käskude
-wastu on teinud, siin kaagi peal, kus see ahas-
-tus neile juba hiljaks on jäenud.
-Sedasama wilja mis sa oled külmanud pead
-sina ka lõikama!
-Nr. 2. Kurja töö pakk.
-Viinamägi, nii kui lammas,
+
+
+# Kurja töö palk
+
+Wiinamägi, nii kui lammas,
 Seisis nõrkus kagisambas,
 Häbiks hulga rahwa ees,
 Oma wangimantli sees.
-8
+
 See Pauliine! kes kui paine,
 Häbemata mehe naeue,
-Wedand teda kurja teed,	i
+Wedand teda kurja teed, 
 Et ta heitnud oma meelt.
-Niis üks lidu kõik Mõis teha,
+
+Mis üks lidu kõik Mõis teha,
 Siin meil õpetuseks näha;
 Siin ta ümber mitu meest,
 Kes kõik kostaks tema eest.
+
 Neid usta meheks siin kül ütlen,
 Sibi kälimeheks mõtlen,
 Need kes endid ülean'd,
 Omad nimed roojastand.
-, Rongad waatwad oma sööta
+
+Rongad waatwad oma sööta
 Hulguseid, kes ilma tööta
-Tahtsid ennast ■ läbi a'ada,
+Tahtsid ennast läbi a'ada,
 Kõrtsist õlut, wiina saada.
+
 Ja weel peale uhkust teha,
 Nii kui nendest meitel näha,
-Walge peaga Jidlane,^)
+Walge peaga Jidlane,
 Kõige mustem nendest see.
+
 Nüüd on nende kurjad tehtud,
 Neid kui tantsu karud nähtud,
 Nendest kolmest Tallin,prii.
-Siid istad Miiaks' Siberi.
-*) Ferdinand Schmnnl.
-9
+Siid istad wiiaks' Siberi.
+
 Maa alla, mägedesse,
 Otse nii kui surma sisse;
 Kulda, waske kaewama,
 Oma ihu waewama.
+
 Ära wannu neid, Waid palu.
 Mõtle nende pitka walu,
 Pimeduses waesed need,
 Pääwad läbi nii kui ööd.
+
 Päikest ilmas ei saa näha,
 Mulla tööd kui mutid teha,
 Nüüd on ahastus neil suur,
 Hirmus nende patu juur.
-Wr. 3. Maailm.
+
+
+# Maailm
+
 Ma waatan praegu aknast wälja
 Ja mõtlen selle ilma nalja:
 Kõik on jo kaduw ilma sees,
 Kui lumi sulab pääwa ees.
+
 M'e elu on kui unenägu,
 Kui wastu suid kaub laulu kägu;
 Ja okas t'ale kurku jäeb,
 Kes meidki enam haudas näeb.
+
 Maailm on wanast ajast olrüd
 Siin inimeste surma Põld;
-'	'	X
-— 10 —
 Kui meie sam weel jaamaks jäeb,
 Siis uusi inimesi näeb.
+
 Kül üürikesed tneie pääwad,
 Põlw põlwest lühemaks nüüd jäewad.
 Kui mõtleme kõik selle peal:
 Meid hüüab seal üks wali heal!
-■ See nimi, kes ou taewast.loonud
+
+See nimi, kes ou taewast.loonud
 Oülld maa peal jälle üles läinud,
 Kõik mis meil paistab silma ees,
 See seisab tema töö sees.
+
 Ka pääwa, kuu on tema loonud
 Need meile Mälgust ikka toonid,
 Weel jäewad Põlwest põlweni,
 Ka tuules rllad ei kiigugi.
-Wr. 4. peigmehe kõue pruudiga.
-Peigmees: .„Kui ilus tüdruk oled sa,
+
+
+# Peigmehe kõne pruudiga
+
+### Peigmees: 
+„Kui ilus tüdruk oled sa,
 Ja teiseks poismees mina ka,
 Mis ootame nüüd meie siis,
 See on jo kõige ilma wiis.
+
 Oh ütle omast südamest,
 Kas armastad sa mind ka tõest?
 Wõi muidu silmakirjaks teed,
 Mo wastu pärast külmaks jäed."
-11
-Pruut:	„Ei mitte muud kui üksi siud
+
+### Pruut: 
+„Ei mitte muud kui üksi siud
 Ma armastan, oh usu mind;
 Ka surmani sul truuiks jäen,
-Kül pärast seda ise näed»"
-Peigmees: „Nüüd anna lahkest mulle kät,
+Kül pärast seda ise näed."
+
+### Peigmees: 
+„Nüüd anna lahkest mulle kät,
 Sul südamest ma ütlen tõt:
 Ei ilma sinuta nüüd nüa
 Üht tundi enam rahu saa!"
-Mõlemad „OH laseme nüüd põlwili
+
+### Mõlemad 
+„Oh laseme nüüd põlwili
 Ja Palume, nüe Loojalt ka:
 Et tema meile õnne tooks,
 M'e südamed ka kokku looks.
+
 Ja teineteise abiks wist;
 Meil olgu rõõm ehk tulgu rist,
 Kõik ühel meelel kanname,
 Auu Jumalale anname!"
-I .	' 1T
-Mr. 5. Armukese Helde süda.
+
+
+# Armukese helde süda
+
 Kui wara üles tõusen uüa
 Ja õhtu olen wäsind ka,.
 Kui wiskan ennast woodisse,
 Siis pruut mul tuleb mõttesse.
+
 Kui öösel teise kulle peal,
 M'a ennast ümber keeran seal,
 Ja õues näen uüa selged kuud,
-Oh, siis t^al rõõmsast annaks sund.
-12
+Oh, siis t'al rõõmsast annaks sund.
+
 Kui pääwa tõustes ärkan, siis
 See on mo pruudikese wiis,
 Mul rutust süüa tooks jo ta,
 Peaparandust just kruugiga.
+
 Ka araminnes ütleb weel:
 Sul õnn jo käigu ikka eel!
 Sa olgu merel ehk kus teal,
 Mo mõtted paigal sinu peal.
+
 Weel kaela ümber hakkab kord,
 Ta palged es ei Paista werd
 Ja õhkab raskest südamest:
 Nüüd lahkuma pean sinust just!
-Wr. 6. Stuöenmädcheu und Koch.
-Toatüdruk ja kok.
-K o k.
+
+
+# Stubenmädchen und koch. Toatüdruk ja kok.
+
+### Kok
 Lube mamsel Liisa, ole
 Nõnda hea ja kuule mind,
 Ega see mo süü ei ole,
@@ -266,18 +209,19 @@ Et ma armastan nüüd sind!
 Toa Hindrek ikka haugub,
 Et ma unine jo nüüd;
 Sest mo süda wäga paugub,
-Ei see Pole minu süü.
-13
-Toatüdruk.
-Js ta$*) nicht um tol su werden,
-Wir empardiment er spricht.
+Ei see 'pole minu süü.
+
+### Toatüdruk
+Js tas nicht um tol su werden,
+Wii empardiment er spricht.
 Ich sa noch auf Kottes Erden
-' So ein lummer Lurjus nicht.
+So ein lummer Lurjus nicht.
 Geh! und laß nriir nngesoren
 Tu werwluchter Pauermats!
 Ich krii tawon krarrke Oreu,
 Tsu tsuhören so'n Gewats.
-K o k.
+
+### Kok
 Wist mo armas Liisakene,
 Sul ei ole hea meel!
 Sa tead, et ma waenekene,
@@ -286,16 +230,8 @@ Sa Liisa ütle mus üks sõna,
 Et pisut armastad sa mind?
 Ma jäen wait kui surnud kana,
 Palun wäga, wäga sind.
-' *) Seda pangu iga Eestlane tähele, et kui ta Saksa
-keelt mitte taieste ei saa wälja ööldud, siis ennemalt
-selged Eestikeelt rääkigu, kui seesugust segast Saksa keelt,
-kellest keegi ei wõi aru saada. Ärgu keegi Eestlane kartku
-sellepärast Eesti keelt rääkida, et ta mõisas ehk linnas
-uhkes majas elab, kus Saksad elawad ja sellepärast siis
-ka kõik nende järele püüab teha, ei, ci see ci. lähe iga
-ühele mitte'Nõnda korda kuda ta mõtleb.
-14
-Toatüdruk.
+
+### Toatüdruk
 Kott geware, liider Immel,
 Wenn wirt kommen Tuuben-Hans
 Und siit bei miir diis Panerlimmel,
@@ -304,7 +240,8 @@ Hans wirt eiwersichtig werden,
 Nein, tas halt ter Teisel aus;
 Macht er miir nicht hiir Gebärden,
 Als wenn ich ward ein Härpsenlaus.
-K o k.
+
+### Kok
 Ikka mino panni peal,
 Minu kastrulite sees,
 Ikka sina seisad seal,
@@ -313,17 +250,18 @@ Kapsta suppi ei wõi keeta,
 Ega praadi pöörata,
 Unustan mis tarwis wõtta,
 Soola sousti panema.
-Toatüdruk.
-Ach mein Erts ist kans werklommen/
+
+### Toatüdruk
+Ach mein Erts ist kans werklommen,
 Wenn tas siit mein Preitikaam;
 Aber las iim nuur erst kommen
 Ich will pitten, Kottwerdammen,
 Tas er treibt mich diisen Peugel
 Mit kutsar Jaan sein Wäärdepeits.
-15
 Er wirt es Luun, der liibe Engel,
 Ich Wil iim pitten recht auw teils.
-Kok.
+
+### Kok
 Ma armastan sind kui üks kala
 Ja olen noor ja auustud mees,
 Mo süda on nüüd nõnda Pala,
@@ -332,7 +270,8 @@ Raha mulle lööb kül etje,
 Et wõin rõõmsast elada,
 Kui nüa aga sind saaks kätte,
 Siis Jumalad wõin tänada.
-Toatüdruk.
+
+### Toatüdruk
 Tas aber läßt sich toch auch eeren,
 Wenn er wirt neemen mich tsu Wrau,
 Hans kann mich tan auch wereeren,
@@ -341,233 +280,289 @@ Mein Mann wirt sitsen in das Küche
 Und ich würd Wreileins Simmer weegen,
 Tann kommt mein liiber Hans tsu mir
 Und jipt ein Kuß mit Kottes seegen.
-Kok.
+
+### Kok
 Löö sisse, armas Liisakene,
 Oh kui õnnis olen nüa!
 Teeme pulmad meie enne,
 Kui weel kuked laulawad.
-16
 Mina löön sul torupilli,
 Sina hakkad tantsima;
 Laulame mõlemad Harju tralli
 Ja lähme rõõmsast magama.
-Wr. 7. Ueitft itu.
+
+
+# Neitsi ilu
+
 So juuksed ueed on pruunikad,
 So silmad taewa sinised,
 So Palesid ei oska nLa,
 Kõik nende ilu kirjuta.
+
 Weel sinu suu ja walge kael
 Seal paistab weel üks siidi Pael,
 M'a Palun sind, ei mitte muud,
-Weel sellel kord nLa annaks suud^
+Weel sellel kord nLa annaks suud.
+
 Kõik riikidest ma ütlen wist:
 Ei leia nLa so sarnalist!
 Mis on sind siia ilma loon'd,
 Ja minu ette praegu toonid?
-M^a kõik mis tahad ikka teeks,
+
+M'a kõik mis tahad ikka teeks,
 Kui sa siin ilmas minu jäeks,
 Kõik südamest sul annaksin,
 Weel käte peal sind kannaksin.
+
 Kui mind nüüd ära põlgad sa,
 Siis muresse pean surema;
 Ja rahu leian haua sees,
 Kus sa mul enam 'pole ees.
-17
-Wr. 8. Uassi pidu.
+
+
+# Palli pidu
+
 Üks lugu sündind Eestimaal,
 Siin peale kümne aasta a'al;
 See on, et tütarlapsed teind
 Üht Palli, kellest räägin nüüd:
+
 See lugu sündis Nääripääw,
 Kui meil uus aasta oli käe,
 Ja õnneks ei oln'd kange tuul
 Mis nimed wälja puhuks mul.
+
 Sest üks siis rääkis ühele
 Ja teine kolmandemale:
 „Kas ka lä'äd waat'ma seda head,
 Mis nüüd saab tehtud palli peäl?"
+
 Üks rääkis siin ja teine seal:
 „Kas ka tuled selle palli peal'?
 Kus palju noori mehi koos,
 Ja mõni kena nii kui roos!
-„OH tule õde, tule s'a,
+
+„Oh tule õde, tule s'a,
 Mo seltsiks senna kaasa ka,
 Sel ööl, sel ööl, sel Nääri ööl,
 Seal antaks'' rohkest meile tööd."
+
 „Nüüd palli peale lähen m'a,"
 Nõnda rääkis üks suure rõõmuga.
 „Kui peaks aga õnn mul olema,
 Et Pärnust saaks ruttu tulema."
-18
+
 Ta sõitnud tee peal nii et tolm
 Läinud temast mööda üks, kaks, kolm,
 Ta süda olnud rõõmus sees,
 Kui prisked hobused oln'd ees.
+
 Ta raisanud tee Peal rublad kaks,
 Et iga postipois saanid naps,
 Siis see eest ruttu aeand ka,
 Kui kuller postiwankriga.
+
 Ta jõudnud aegsast koju kül
 Ja mõtelnud mul on suur õnn!
 Siis pühkind silmad ära weest,
 Mis tulnud talle külmast teest.
+
 Kell olnud juba kümne peal,
 Kui tantsitud on palli peal,
 Seal olnud tuba rahwast täis
 Ja kõige meeltest rõõmu näis.
-Seal olr?d tõest Palju tüdrukuid,
+
+Seal oln'd tõest Palju tüdrukuid,
 Nii Palju kui neid olnud kõik
 N'ad hüppand, tantsind Palli tuas,
 Et wiimaks kõik olrsid küljeli maas.
+
 Seal tansitud ja mõllatud
 Ja saapaid wiltu tallatud,
 Seepärast on see mitmetel.
 Nii armas kuulda täna weel.
-— 19 —
+
 M'e tuntud lapsed olnud seal,
-N'ad seisn'd kõik just kui panni Peal,
+N'ad seisn'd kõik just kui panni peal,
 Ühe wend arlld oma õele süüd,
 Et ütelnd, eks sa tantsi nüüd.
+
 Seal olrüh üks kroonu ohwitser,
-See oln^d suur tantsu komandiir,
+See oln'd suur tantsu komandiir,
 See tantsind seal kui weerew kuul,
-EL taskus hüpand tsilindri uur.
+Et taskus hüpand tsilindri uur.
+
 Kui wiimaks otsa lõppes mäng,
 Siis ootas kodu kõigel säng,
 Kõik hakkasid koju ruttama,
 Et puhkama weel hakata.
+
 Weel ohkasid kõik südamest,
 Et peame minema nüüd just,
 Ei meie lapsed kül wist saa,
 Üht seesugust palli nägema.
+
 Kül pallide peal on suur õnn,
 Ühe noore tütarlapsel kül,
 Üks õnne laps wõib olla ta,
 Kui palli Peal saab tantsida.
+
 See õnn toob sale kannatust,
 Teist Palli pidu ootamast
 Ja siis ei hakka llal ka hea,
 Kui ta käib wähe palli peal.
-20
+
 Oh, minge mitte palli peal,
 Teil õnnetus wõib olla seal,
 Et elu a'aks saate õpetust,
 Niisuguse kohta minemast.
-Mr. 9. Meitft ilu.
+
+
+# Neitsi ilu
+
 Oh so pruunid siidi juuksed
 Tümad au kui liuapeu!
 Oh kui n'ad mo meelest armsad,
 Ära sa neid kinni sen!
+
 Oh so roosi lillest paled
 Ja so lumi walged käed,
 Oh so taewa karma silmad
 Südamesse mulle jäed!
+
 Oh kui ma so ilu juurde
 Jääksin elu otsani;
 Oh ma tooks meel sinu kätre
 Oma hõbe, küllagi.
+
 Ütle, ütle minu süda
 Sulab so ees oodates!
 Ütle, et see Pärli rida
 Üksi hiilgab sinu ees!
+
 Siis ma rahul ilmast läbi
 Sinuga lllläks taewasse,
 Siis ei kardaks mina häbi
 Surmas ei ka waewaski.
-21
-Ur. 10. Hütartapsed wõtke märgiks.
+
+
+# Tütarlapsed wõtke märgiks
+
 Neitsid, tehke silmad lahti,
 Näpistage küünla tahti,
 Et t'e selgemine näeks,
 See ka teile pähe jäeks!
+
 Mina omas noores heas,
 Nüüd m'a 'pole teite seas,
 Olen järel' möteln'd seda,
 Et teil wiimaks tuleb häda.
+
 Esimeseks kui n'ad noored,
 Siis on nende lustid suured,
 Mõte neid siis aeab taga,
 Olgu ta kas ingel waga.
-Teiseks et La pale jume,
+
+Teiseks et ta pale jume,
 See on ilus mitte tume.
 Paistab iga mehe kätte,
 Siis ta risti ei löö ette.
+
 Kolmandaks teil nõdrem aru,
 Teate mees on n'agu karu,
 Wiimaks ikka tema wõit,
 Auusast ära makstud sõit.
+
 Siis ta weel teid naerab wälja,
 Et ta t'ega teinud nalja;
 Almaks tema meelest jäete,
 Uskuge, kõik seda näete.
-22
-Nr. 11. Armukese jumalaga jätmine.
+
+
+# Armukese jumalaga jätmine
+
 Jumalaga teed ja wäljad,
 Jumalaga weike õu'!
 Isa ema olid kurwad.
 Ja mo armas nuttis ka.
+
 Kui siit kaugelt, kaugelt wõeralt
 Maalt m'a koju ruttaksin,;
 Rõõmsast laulsid minu sõbrad,
 Ei see oln'd see õige laul.
+
 Teisi linnast m'a nägin.
 Teisi neijuid ilusaid
 Ja need olid teised neijud,
 Minu oma ei oln'd seal!
+
 Teised linnad teised neijud,
 Nende hulkas mina kurb,
 Teised neijud, teised linnad,
 Ruttu ümber keeraksin.
-Mr. 12. Weitst julgus.
+
+
+# Neitsi julgus
+
 Tõuskem Püsti, olgem wahwad,
 Mitte ehmatand ja kahwad;
 Neitsit meile õlut toob,
 Ise pealt ka termist joob.
-23
+
 Eks so süda sees ei tuksu,
 Klaasidega lööma puksu?
 Räägime weel nalja juttu,
 Ei sel neitsil 'pole ruttu,
+
 Neitsit waatab meie lusti,
 Ei ta istu Waid on Püsti
 Ajawiiteks, eks sa näe,
 Sukawardad temal käe.
+
 Auru Priidik püüab ka
 Tema ligi asuda,
 Aga kül sa pärast näed,
 Läbi sõrme waat'ma jäed.
-Lõpetuseks.
+
+
+# Lõpetuseks
+
 Nüüd lõpetuseks ütlen weel
 Teil' Eesti sõbrad? lisaks:
 Ehk mõnel pahane nii meel.
 Et kõrwad täis mul kisaks.
+
 Mis kasu saate tühjast tööst
 Mis kasu enda laimust?
 Ei waewa wõi mul teha tõest
 T'e enda targaist waimust.
+
 Et enda tarkust kiidate,
 Kui uusi ime wärka
-24
-Ja Leiste tööst laidate,
+Ja teiste tööst laidate,
 Kui wiimse aja märka.
+
 Teil andku tänu selle eest,
 Kui rikkal mehel Põrgus:
 Ei nlla, waid mitu teisa meest,
 Kell hännad seiswad sorgus.
+
 Ehk rõhkijate puudu kül
 Weel Eestimaal 'põlud kuulda,
 Waall siiski ime, ime hul,
 Et ari wingub kulda.
+
 T'e kisage ja kärage,
 Nii Palju kui lle tahte,
 Ei see mind ära kohuta,
 Kõik mulla alla lähte.
+
 Kas olgu ari, kep ehk luud,
 Mis maa peal kõiki näris,
 Wõi Poolel põlend süte puud,
 Kõik pahareti päris.
+
 T'e silma-teendred ilma peal,
 Teid ootab jo üks mees —
 Eks tea — eks tea Morando seal
 Teid ootab juba ees.
-2
