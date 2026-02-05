@@ -1,13 +1,7 @@
-﻿@author:
-Körber,
-Martin
-@title:
-Sarema laulik, üks mönnus luggemisse ramat nore ja wanna rahwale
-@place:
-Kuressaare
-@publisher:
-Ch.
-Assafrey
+﻿@author: Körber, Martin
+@title: Sarema laulik, üks mönnus luggemisse ramat nore ja wanna rahwale
+@place: Kuressaare
+@publisher: Ch. Assafrey
 @year: 1864
 
 
