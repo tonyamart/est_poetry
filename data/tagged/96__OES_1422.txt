@@ -1,6 +1,6 @@
 ﻿@author: Wilde, Heinrieh Leopold
 @title: Toda (?) Mees
-@plaee: Tallinn
+@place: Tallinn
 @publisher: 
 @year: 1866
 

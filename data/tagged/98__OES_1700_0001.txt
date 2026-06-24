@@ -1,6 +1,6 @@
 ﻿@author: Reinvald, Ado
 @title: Willandi Laulik
-@plaee: Tartu
+@place: Tartu
 @publisher: Sehnakenburg
 @year: 1875
 
